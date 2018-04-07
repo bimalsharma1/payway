@@ -1,0 +1,27 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^1.5.0",
+    "gulp-jscs": "^2.0.0",
+    "gulp-jshint": "^1.11.0",
+    "jshint": "^2.0.1",
+    "jshint-stylish": "^2.0.1",
+    "nodemon": "^1.14.12",
+    "wiredep": "^4.0.0"
+  }
+}
